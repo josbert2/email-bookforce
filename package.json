@@ -78,6 +78,7 @@
   "scripts": {
     "build": "next build",
     "next:dev": "next dev",
+    "preview": "next start",
     "email:dev": "email dev",
     "email:build": "email build",
     "dev": "tsup --watch",
